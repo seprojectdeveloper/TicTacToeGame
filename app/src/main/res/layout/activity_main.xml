@@ -12,7 +12,7 @@
         android:id="@+id/TicTacToe"
         android:text="TicTacToe"
         android:gravity="center"
-        android:textSize="40sp"
+        android:textSize="50sp"
         android:textStyle="bold|italic"/>
 
     <GridLayout
